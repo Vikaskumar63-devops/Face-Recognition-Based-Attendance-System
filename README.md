@@ -1,4 +1,4 @@
-Face Recognition Based Attendance System
+# Face Recognition Based Attendance System
 📌 Overview
 
 This project is a Face Recognition Based Attendance System developed using Python.
